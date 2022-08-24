@@ -1,4 +1,4 @@
-# Packer, Ansible and Terraform - Together
+# Packer, Ansible, Vault and Terraform - Together
 
 This repository contains code examples for running Terraform and Ansible together in different configurations.
 
