@@ -1,0 +1,7 @@
+---
+- name: Ansible Test Playbook
+  gather_facts: false
+  hosts: aws_region_us_west_2
+  tasks:
+    - name: Run Shell Command
+      command: uptime
