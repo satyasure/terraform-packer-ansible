@@ -10,6 +10,14 @@ Dynamic inventory is not limited to just AWS. It supports most of the public and
 
 ![Dynamic Inventory](ansible-inventory.png)
 
+## Reference Links
+
+[GCP](https://devopscube.com/ansible-dymanic-inventry-google-cloud/)
+
+[AWS](https://devopscube.com/setup-ansible-aws-dynamic-inventory/)
+
+[Azure](https://docs.microsoft.com/en-us/azure/developer/ansible/dynamic-inventory-configure?tabs=azure-cli)
+
 
 ## Table of contents
 
