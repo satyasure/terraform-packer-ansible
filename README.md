@@ -8,6 +8,8 @@ It gives you the ec2 instance details dynamically to manage the AWS infrastructu
 
 Dynamic inventory is not limited to just AWS. It supports most of the public and private cloud platforms. 
 
+![Dynamic Inventory](ansible-inventory.png)
+
 
 ## Table of contents
 
